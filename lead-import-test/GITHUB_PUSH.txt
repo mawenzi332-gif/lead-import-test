@@ -1,0 +1,11 @@
+1. Create a new EMPTY public repository on GitHub, for example: lead-import-test
+2. In this project folder run:
+
+   git init
+   git add .
+   git commit -m "Implement fast lead import"
+   git branch -M main
+   git remote add origin https://github.com/YOUR_USERNAME/lead-import-test.git
+   git push -u origin main
+
+Before sending the repository link, make sure old repositories you do not want an employer to see are set to Private.
